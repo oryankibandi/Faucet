@@ -35,7 +35,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-##About the project
+## About the project
 
 This is a web3 Faucet project built in the Ethereum network. It  enables contributors to fund a smart contract.This can be applied in **DeFi** solutions.
 
